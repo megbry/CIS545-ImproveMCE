@@ -55,9 +55,9 @@ Attack against the proposed exclusion oracles: https://github.com/megbry/CIS545-
 
 Due to upload size restrictions, the trained model files are only available under megbry-model-branch. 
 This branch utilizes Git LFS, which was necessary due to the file size, and left separate to avoid impacting access time for non-model code. These models are:
-- f1.pth
-- f2.pth
-- f3.pth
-- f4.pth
-- f5.pth
-- shadow_model.pth 
+- f1.pth: https://github.com/megbry/CIS545-ImproveMCE/blob/megbry-model-branch/f1.pth
+- f2.pth: https://github.com/megbry/CIS545-ImproveMCE/blob/megbry-model-branch/f2.pth
+- f3.pth: https://github.com/megbry/CIS545-ImproveMCE/blob/megbry-model-branch/f3.pth
+- f4.pth: https://github.com/megbry/CIS545-ImproveMCE/blob/megbry-model-branch/f4.pth
+- f5.pth: https://github.com/megbry/CIS545-ImproveMCE/blob/megbry-model-branch/f5.pth
+- shadow_model.pth: https://github.com/megbry/CIS545-ImproveMCE/blob/megbry-model-branch/shadow_model.pth
