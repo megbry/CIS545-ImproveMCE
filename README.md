@@ -61,3 +61,9 @@ This branch utilizes Git LFS, which was necessary due to the file size, and left
 - f4.pth: https://github.com/megbry/CIS545-ImproveMCE/blob/megbry-model-branch/f4.pth
 - f5.pth: https://github.com/megbry/CIS545-ImproveMCE/blob/megbry-model-branch/f5.pth
 - shadow_model.pth: https://github.com/megbry/CIS545-ImproveMCE/blob/megbry-model-branch/shadow_model.pth
+
+#### Additional Files (Unused)
+
+The project repo also includes additional model files that were tested for use in the ensemble. These models can be found here: https://github.com/megbry/CIS545-ImproveMCE/tree/main/models
+
+These models were included because while they were ultimately not chosen for usage in the final ensemble, they were part of the project training process. 
